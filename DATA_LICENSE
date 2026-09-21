@@ -1,0 +1,16 @@
+# Data license — CC BY 4.0
+
+The measurement data, tables and generated artifacts in this repository —
+`results/` (CSV, Markdown, the masked outputs and their `report.json`) and
+`SHA256SUMS` — are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+  https://creativecommons.org/licenses/by/4.0/
+
+Please credit **Sumitsuke Lab** (https://sumitsuke.jp/lab/) and, where
+practical, link to the article:
+https://sumitsuke.jp/lab/sanitize-comments-fail-closed-original-match/
+
+`fixture.mjs` is a synthetic input written for this experiment (no real
+project code); it is covered by the MIT license together with the source
+code (`*.py`, `*.mjs`, see `LICENSE`).
